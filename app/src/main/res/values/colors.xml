@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#732CB1</color>
+    <color name="colorPrimaryDark">#732CB1</color>
+    <color name="colorAccent">#732CB1</color>
+    <color name="SemiAccent">#B7732CB1</color>
+    <color name="UltraSemiAccent">#79732CB1</color>
+    <color name="DarkSemiAccent">#B72D1141</color>
+    <color name="darkAccent">#03002B</color>
+    <color name="transparentgray">#41000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="DarkGray">#0A0A0A</color>
+    <color name="white">#FFFFFF</color>
+</resources>

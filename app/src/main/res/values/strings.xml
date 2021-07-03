@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Student Attendance</string>
+    <string-array name="Names">
+        <item>James</item>
+        <item>Jamesupot</item>
+        <item>Jempot</item>
+        <item>Jamespot</item>
+    </string-array>
+</resources>
